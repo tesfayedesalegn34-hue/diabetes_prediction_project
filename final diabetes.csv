@@ -1,0 +1,800 @@
+Age,Gender,Family_Diabetes,highBP,BMI,Smoking,Alcohol,Sleep,BloodType,BPLevel,Pregancies,UrinationFreq,Diabetic
+60 or older,Male,yes,yes,30,yes,yes,8,A,high,0,not much,yes
+50-59,Female,no,no,28,no,no,8,B,normal,3,quite often,no
+40-49,Male,yes,yes,24,yes,yes,6,AB,high,0,not much,yes
+50-59,Female,no,no,23,no,no,8,O,normal,4,quite often,no
+60 or older,Male,yes,no,27,no,no,8,A,high,0,not much,yes
+40-49,Male,no,yes,21,no,yes,7,B,high,0,quite often,no
+less than 40,Female,yes,no,24,no,no,8,AB,normal,3,not much,yes
+less than 40,Male,no,yes,20,no,no,7,A,low,0,quite often,no
+60 or older,Male,yes,no,23,no,no,7,B,normal,0,not much,yes
+50-59,Male,no,no,20,no,no,8,AB,high,0,quite often,no
+less than 40,Male,yes,yes,20,no,yes,7,A,normal,0,not much,yes
+40-49,Female,yes,no,26,yes,no,8,B,high,0,quite often,no
+60 or older,Female,no,no,21,no,no,6,AB,low,1,not much,yes
+50-59,Female,yes,yes,22,no,yes,8,A,low,2,quite often,no
+40-49,Male,no,yes,15,no,no,7,B,high,0,not much,yes
+50-59,Female,yes,yes,34,no,no,6,AB,low,3,quite often,no
+60 or older,Male,yes,no,22,no,no,7,O,normal,0,not much,yes
+40-49,Female,no,yes,24,no,yes,6,A,low,2,quite often,no
+less than 40,Male,yes,no,24,no,no,7,B,high,0,quite often,yes
+less than 40,Male,no,yes,22,no,no,8,AB,normal,0,not much,no
+60 or older,Male,yes,yes,30,no,yes,9,A,high,0,quite often,yes
+50-59,Female,yes,no,24,no,no,4,B,normal,3,not much,no
+less than 40,Female,yes,no,24,no,no,4,AB,high,3,quite often,yes
+40-49,Male,no,yes,20,no,no,9,O,normal,2,not much,no
+less than 40,Male,yes,no,24,yes,no,8,A,high,0,not much,yes
+less than 40,Female,no,yes,21,no,yes,7,B,normal,0,not much,no
+less than 40,Female,no,no,20,no,no,6,AB,high,0,quite often,yes
+50-59,Male,no,no,27,no,no,7,A,normal,0,quite often,no
+40-49,Male,yes,yes,29,no,no,6,B,low,0,not much,yes
+60 or older,Female,no,no,18,no,yes,6,AB,low,3,quite often,no
+less than 40,Female,no,no,32,no,no,8,A,low,3,not much,yes
+40-49,Female,no,yes,21,no,no,7,B,normal,3,quite often,no
+60 or older,Male,no,yes,26,no,no,4,AB,high,0,not much,yes
+60 or older,Female,yes,yes,31,no,yes,8,A,low,3,not much,no
+60 or older,Female,no,no,26,no,no,7,B,low,3,quite often,yes
+60 or older,Male,yes,no,21,no,no,8,AB,normal,0,not much,no
+40-49,Female,yes,no,28,no,no,8,O,normal,2,quite often,yes
+50-59,Male,no,yes,24,no,no,8,A,high,0,not much,no
+40-49,Male,no,yes,27,no,no,8,B,high,0,quite often,yes
+40-49,Female,yes,yes,21,no,yes,6,AB,normal,0,not much,no
+60 or older,Male,no,no,27,no,no,6,O,low,0,quite often,yes
+50-59,Female,no,yes,24,no,no,6,A,normal,0,not much,no
+40-49,Male,yes,no,36,no,yes,6,B,low,0,not much,yes
+50-59,Male,yes,no,21,no,no,6,AB,high,0,quite often,no
+60 or older,Female,no,yes,22,no,no,6,O,normal,0,not much,yes
+40-49,Male,yes,no,21,no,no,6,A,low,0,quite often,no
+less than 40,Female,yes,yes,38,no,yes,8,B,normal,0,not much,yes
+less than 40,Male,no,no,40,no,no,9,AB,high,2,quite often,no
+60 or older,Female,yes,no,35,no,no,5,A,high,0,quite often,yes
+50-59,Female,yes,yes,24,no,no,4,B,high,3,not much,no
+less than 40,Male,no,no,18,no,no,5,AB,normal,0,not much,yes
+40-49,Female,yes,no,23,no,no,7,A,normal,2,quite often,no
+60 or older,Female,no,yes,19,no,yes,6,B,high,1,not much,yes
+50-59,Male,yes,yes,26,yes,yes,8,AB,normal,0,quite often,no
+40-49,Female,no,yes,30,yes,yes,5,A,normal,1,not much,yes
+50-59,Male,yes,no,27,no,no,6,B,high,0,quite often,no
+60 or older,Male,no,yes,18,yes,yes,7,AB,normal,0,quite often,yes
+40-49,Female,yes,no,29,yes,yes,6,O,normal,0,not much,no
+less than 40,Male,no,yes,19,yes,yes,6,A,high,0,not much,yes
+less than 40,Female,yes,yes,21,no,no,8,B,normal,0,quite often,no
+60 or older,Male,no,yes,24,no,no,4,AB,normal,0,not much,yes
+50-59,Male,no,yes,31,no,no,6,A,high,0,quite often,no
+less than 40,Female,yes,no,22,no,no,8,B,normal,0,not much,yes
+less than 40,Male,yes,yes,19,no,yes,8,AB,high,0,quite often,no
+50-59,Male,no,no,27,no,no,6,O,normal,0,not much,yes
+40-49,Male,yes,no,26,no,no,8,A,high,0,quite often,no
+50-59,Female,no,yes,21,no,no,8,B,normal,0,not much,yes
+60 or older,Male,yes,no,26,no,no,6,AB,high,0,quite often,no
+50-59,Male,no,yes,23,yes,yes,5,A,normal,0,not much,yes
+less than 40,Male,yes,no,26,yes,yes,5,B,high,0,not much,no
+60 or older,Female,no,no,18,no,no,4,AB,high,0,quite often,yes
+60 or older,Female,yes,yes,19,no,no,9,A,low,4,quite often,no
+50-59,Male,no,no,24,no,yes,7,B,normal,0,not much,yes
+60 or older,Female,yes,no,33,no,no,6,AB,low,2,quite often,no
+50-59,Male,yes,yes,31,no,yes,7,A,high,0,not much,yes
+40-49,Female,no,yes,23,yes,no,7,B,normal,1,quite often,no
+50-59,Male,yes,yes,23,no,no,7,AB,normal,0,not much,yes
+50-59,Female,no,no,20,no,no,7,O,low,1,quite often,no
+50-59,Female,no,no,28,yes,yes,7,A,high,0,not much,yes
+60 or older,Male,yes,no,26,no,yes,6,A,high,0,not much,no
+less than 40,Male,no,yes,24,no,no,7,B,normal,0,quite often,yes
+60 or older,Male,yes,yes,24,no,no,7,AB,normal,0,quite often,no
+less than 40,Female,no,no,17,no,no,4,O,high,0,quite often,yes
+60 or older,Male,yes,no,28,yes,yes,4,A,normal,0,quite often,no
+50-59,Male,no,yes,23,yes,no,6,B,high,0,not much,yes
+40-49,Male,yes,no,24,no,no,6,AB,normal,0,not much,no
+50-59,Female,no,yes,19,no,no,7,A,low,1,not much,yes
+60 or older,Male,yes,no,15,no,no,4,B,high,0,quite often,no
+40-49,Male,no,no,22,no,no,6,AB,normal,0,quite often,yes
+less than 40,Female,yes,yes,23,yes,yes,7,A,high,2,not much,no
+less than 40,Male,no,no,18,no,no,8,B,normal,0,quite often,yes
+60 or older,Male,yes,no,21,no,no,5,AB,normal,0,not much,no
+50-59,Male,no,yes,21,no,no,7,A,normal,0,not much,yes
+less than 40,Female,yes,yes,21,no,no,9,B,high,2,quite often,no
+40-49,Male,no,yes,22,no,no,5,AB,normal,0,not much,yes
+60 or older,Male,yes,no,25,no,no,6,O,normal,0,not much,no
+50-59,Female,no,no,20,yes,yes,6,A,high,4,quite often,yes
+40-49,Male,yes,no,24,no,no,8,B,normal,0,quite often,no
+50-59,Female,no,yes,21,yes,yes,8,AB,high,0,not much,yes
+60 or older,Female,yes,yes,26,no,no,6,A,normal,0,quite often,no
+40-49,Female,no,no,27,no,no,8,B,low,1,quite often,yes
+less than 40,Female,yes,no,26,no,no,8,AB,low,0,not much,no
+less than 40,Male,no,no,24,no,no,8,O,normal,0,quite often,yes
+60 or older,Female,yes,no,21,yes,yes,8,A,normal,3,not much,no
+50-59,Female,no,yes,22,no,no,8,B,normal,3,quite often,yes
+60 or older,Male,yes,no,23,no,yes,7,AB,high,0,quite often,no
+60 or older,Male,no,no,28,no,no,8,A,normal,0,quite often,yes
+60 or older,Male,yes,yes,32,no,no,8,B,high,0,not much,no
+40-49,Female,yes,no,33,no,no,6,AB,normal,2,quite often,yes
+less than 40,Female,no,yes,24,no,no,8,A,normal,0,not much,no
+50-59,Female,yes,no,28,no,no,7,B,high,0,quite often,yes
+60 or older,Male,no,no,30,no,no,7,A,normal,0,not much,no
+50-59,Male,yes,yes,30,yes,yes,7,B,high,0,quite often,yes
+40-49,Female,yes,no,18,no,no,7,AB,normal,3,not much,no
+50-59,Female,no,no,27,no,no,9,O,high,0,not much,yes
+60 or older,Female,no,yes,22,yes,no,9,A,high,4,quite often,yes
+40-49,Female,no,yes,30,no,no,5,B,normal,5,not much,no
+less than 40,Male,yes,yes,18,no,no,7,AB,high,0,quite often,yes
+less than 40,Male,no,no,22,yes,no,7,A,normal,0,not much,no
+60 or older,Male,yes,no,21,no,yes,8,B,high,5,quite often,yes
+50-59,Female,no,no,26,no,no,8,AB,normal,0,quite often,no
+less than 40,Female,yes,yes,18,yes,no,6,A,high,2,not much,yes
+40-49,Male,yes,yes,21,no,no,6,B,normal,0,quite often,no
+60 or older,Female,no,yes,31,no,no,7,AB,high,0,quite often,yes
+50-59,Male,yes,no,33,no,yes,5,A,high,0,not much,no
+40-49,Female,no,yes,30,no,no,7,A,normal,0,not much,yes
+50-59,Female,yes,no,23,no,yes,6,B,high,0,not much,no
+60 or older,Female,yes,no,29,no,no,6,AB,high,2,quite often,yes
+40-49,Female,no,yes,17,no,no,7,O,normal,3,not much,no
+less than 40,Female,yes,no,24,no,no,8,A,high,2,not much,yes
+less than 40,Male,no,yes,26,yes,yes,8,B,normal,0,quite often,no
+60 or older,Female,yes,no,27,no,yes,8,AB,high,0,not much,yes
+50-59,Male,no,no,21,no,no,6,A,normal,0,not much,no
+40-49,Female,yes,yes,26,no,no,7,B,high,0,quite often,yes
+less than 40,Male,no,no,20,no,no,7,AB,normal,0,not much,no
+60 or older,Female,yes,no,22,no,no,6,A,low,2,not much,yes
+50-59,Male,no,yes,21,yes,no,8,B,normal,0,quite often,no
+40-49,Female,yes,yes,26,no,no,7,AB,low,3,not much,yes
+50-59,Male,no,yes,21,yes,yes,9,A,normal,0,not much,no
+60 or older,Female,yes,no,21,no,yes,8,B,high,2,quite often,yes
+40-49,Female,yes,no,24,no,no,8,AB,normal,1,quite often,no
+less than 40,Male,no,no,24,yes,yes,7,O,high,0,not much,yes
+less than 40,Female,no,yes,26,no,yes,6,A,normal,1,not much,no
+60 or older,Male,yes,yes,32,no,no,8,B,high,0,not much,yes
+50-59,Male,yes,no,34,no,no,7,AB,high,0,quite often,no
+less than 40,Male,no,no,30,no,no,7,A,normal,0,not much,yes
+40-49,Female,no,yes,42,no,no,7,B,high,0,quite often,no
+60 or older,Male,yes,no,33,yes,no,8,AB,normal,0,not much,yes
+50-59,Male,no,yes,23,no,no,7,O,normal,0,quite often,no
+40-49,Male,yes,no,27,no,yes,7,A,high,0,not much,yes
+50-59,Female,no,no,25,no,no,5,A,normal,0,quite often,no
+60 or older,Female,yes,yes,28,no,no,6,B,high,0,not much,yes
+40-49,Male,no,no,28,no,no,6,AB,high,0,quite often,no
+less than 40,Female,yes,no,33,no,no,7,O,normal,0,not much,yes
+less than 40,Male,no,yes,33,no,no,7,A,high,0,quite often,no
+60 or older,Female,yes,yes,28,no,no,7,B,normal,0,not much,yes
+50-59,Female,no,yes,28,no,no,6,AB,high,0,quite often,no
+40-49,Female,yes,no,36,no,no,7,A,normal,0,not much,yes
+less than 40,Female,no,no,33,no,no,8,B,high,0,quite often,no
+less than 40,Female,no,no,28,yes,no,6,AB,low,4,not much,yes
+40-49,Male,yes,yes,28,no,no,7,A,high,0,quite often,no
+less than 40,Female,no,yes,33,no,no,8,B,low,2,not much,yes
+60 or older,Female,yes,no,38,no,no,7,AB,normal,0,quite often,no
+50-59,Female,no,no,33,yes,no,6,A,low,1,not much,yes
+40-49,Male,no,no,38,no,no,5,B,normal,0,quite often,no
+50-59,Female,yes,no,36,no,no,7,AB,low,1,quite often,yes
+60 or older,Female,yes,yes,33,no,no,6,O,normal,0,not much,no
+40-49,Female,no,no,33,yes,no,7,A,high,0,quite often,yes
+less than 40,Female,no,no,38,no,no,6,B,normal,0,not much,no
+less than 40,Female,yes,yes,36,no,no,7,AB,high,0,quite often,yes
+60 or older,Female,no,no,33,no,no,7,A,normal,0,not much,no
+50-59,Male,no,yes,38,yes,no,6,B,high,0,quite often,yes
+less than 40,Female,yes,no,38,no,no,5,AB,normal,0,not much,no
+40-49,Male,no,no,33,yes,no,6,O,high,0,quite often,yes
+60 or older,Female,no,yes,33,yes,no,8,A,normal,0,not much,no
+50-59,Male,yes,no,38,no,no,8,B,low,2,quite often,yes
+40-49,Male,yes,no,32,no,no,6,AB,high,0,not much,no
+50-59,Female,no,yes,33,yes,no,8,A,high,3,quite often,yes
+60 or older,Female,yes,yes,22,no,yes,10,B,high,0,not much,no
+40-49,Female,no,yes,24,no,no,8,AB,high,2,not much,yes
+less than 40,Female,yes,no,23,no,no,9,A,high,1,quite often,no
+less than 40,Female,no,no,27,no,no,7,B,normal,0,quite often,yes
+60 or older,Female,yes,no,24,yes,yes,7,AB,low,1,not much,no
+50-59,Female,no,yes,18,no,no,8,A,normal,0,not much,yes
+60 or older,Female,yes,no,20,no,no,9,B,high,0,quite often,no
+50-59,Female,no,no,19,no,no,7,AB,normal,0,not much,yes
+40-49,Male,yes,yes,28,yes,yes,7,O,high,0,quite often,no
+50-59,Female,no,no,19,no,no,8,A,high,0,not much,yes
+60 or older,Male,no,yes,25,yes,yes,7,B,low,0,not much,no
+40-49,Male,no,no,25,no,yes,7,AB,normal,0,quite often,yes
+less than 40,Male,no,no,24,yes,yes,10,A,low,0,not much,no
+less than 40,Male,yes,yes,27,no,no,7,B,low,0,quite often,yes
+60 or older,Female,yes,no,19,yes,yes,7,AB,normal,0,not much,no
+50-59,Male,no,yes,25,yes,yes,10,O,low,0,quite often,yes
+less than 40,Male,no,no,28,no,no,8,A,high,0,not much,no
+40-49,Female,yes,no,25,no,no,5,B,normal,0,quite often,yes
+60 or older,Male,yes,yes,24,no,no,6,AB,high,0,not much,no
+50-59,Female,yes,no,21,no,no,8,A,normal,0,quite often,yes
+40-49,Male,yes,no,23,no,no,9,B,normal,0,not much,no
+50-59,Female,no,yes,28,yes,yes,8,AB,high,4,quite often,yes
+60 or older,Male,no,yes,20,no,no,7,A,low,0,not much,no
+40-49,Female,no,yes,18,no,no,6,B,normal,2,quite often,yes
+less than 40,Male,no,no,25,no,no,6,AB,normal,0,not much,no
+less than 40,Female,yes,no,28,no,no,6,A,high,1,quite often,yes
+60 or older,Male,yes,no,27,yes,yes,6,B,normal,0,not much,no
+50-59,Female,no,yes,20,no,no,8,AB,normal,1,quite often,yes
+60 or older,Male,yes,yes,20,no,no,7,O,low,0,quite often,no
+50-59,Female,no,no,17,no,no,8,A,normal,0,not much,yes
+less than 40,Male,yes,no,26,no,no,6,B,high,0,quite often,no
+40-49,Male,no,yes,21,yes,no,7,AB,normal,0,not much,yes
+60 or older,Female,yes,no,29,no,no,8,A,low,0,quite often,no
+50-59,Male,yes,yes,29,no,yes,6,B,normal,0,not much,yes
+40-49,Female,no,no,24,yes,yes,8,AB,high,0,not much,no
+50-59,Male,yes,no,23,no,no,5,O,normal,0,not much,yes
+60 or older,Female,no,yes,23,no,no,5,A,high,1,quite often,no
+40-49,Male,yes,no,29,yes,yes,6,B,normal,0,quite often,yes
+less than 40,Female,no,no,19,no,no,9,AB,high,2,not much,no
+less than 40,Male,no,yes,23,yes,yes,8,A,normal,0,quite often,yes
+60 or older,Male,no,yes,17,no,no,6,B,normal,0,not much,no
+50-59,Female,yes,yes,23,no,no,6,AB,high,2,quite often,yes
+40-49,Male,no,no,24,no,no,7,A,normal,0,not much,no
+less than 40,Female,yes,no,25,no,yes,8,B,low,0,not much,yes
+60 or older,Female,no,no,35,yes,no,8,AB,normal,2,quite often,no
+50-59,Male,yes,yes,33,no,no,7,A,high,0,not much,yes
+40-49,Female,no,yes,34,no,no,6,B,normal,0,quite often,no
+50-59,Male,yes,no,36,yes,no,6,AB,high,0,not much,yes
+60 or older,Male,no,no,30,no,yes,6,O,high,0,quite often,no
+40-49,Male,yes,no,28,yes,yes,5,A,normal,0,not much,yes
+less than 40,Male,yes,no,35,yes,yes,5,B,high,0,quite often,no
+less than 40,Male,no,yes,24,no,yes,6,AB,normal,0,not much,yes
+60 or older,Female,no,no,22,no,no,8,O,low,3,not much,no
+50-59,Male,no,no,30,no,yes,8,A,normal,0,quite often,yes
+less than 40,Male,yes,yes,22,no,no,7,B,high,0,not much,no
+40-49,Male,yes,no,22,yes,no,8,AB,normal,0,quite often,yes
+60 or older,Male,yes,yes,27,no,no,6,O,high,0,not much,no
+50-59,Male,no,no,23,no,no,6,A,normal,0,quite often,yes
+40-49,Male,no,no,27,no,yes,6,B,low,0,quite often,no
+50-59,Female,yes,yes,29,no,no,7,AB,high,2,not much,yes
+60 or older,Male,no,no,39,no,no,8,A,high,0,not much,no
+40-49,Female,yes,no,28,no,no,8,B,normal,0,quite often,yes
+less than 40,Male,no,yes,24,no,no,6,AB,low,0,not much,no
+less than 40,Female,no,yes,23,no,no,8,A,normal,0,quite often,yes
+60 or older,Male,yes,yes,27,yes,no,8,B,normal,0,not much,no
+50-59,Male,yes,no,21,no,yes,10,AB,high,0,quite often,yes
+40-49,Male,no,no,24,no,no,8,A,normal,0,quite often,no
+less than 40,Female,no,no,20,no,no,7,B,low,0,not much,yes
+less than 40,Male,yes,yes,23,no,no,7,AB,normal,0,not much,no
+40-49,Male,yes,no,20,no,no,8,O,high,0,quite often,yes
+less than 40,Male,no,no,20,no,no,7,A,normal,0,not much,no
+60 or older,Male,yes,yes,26,yes,no,8,B,normal,0,quite often,yes
+50-59,Female,no,no,21,no,no,6,A,low,1,not much,no
+40-49,Female,yes,yes,22,no,no,8,B,normal,2,quite often,yes
+50-59,Male,no,no,15,no,no,7,AB,high,0,not much,no
+60 or older,Female,yes,no,34,no,no,6,O,normal,3,quite often,yes
+40-49,Male,yes,yes,22,yes,no,7,A,high,0,not much,no
+less than 40,Female,no,no,24,no,no,6,B,normal,2,quite often,yes
+less than 40,Male,yes,yes,24,no,no,11,AB,low,0,not much,no
+60 or older,Male,yes,no,22,no,no,8,A,normal,0,not much,yes
+50-59,Male,yes,no,30,no,yes,9,B,low,0,quite often,no
+less than 40,Female,yes,yes,24,yes,no,4,AB,normal,3,quite often,yes
+40-49,Female,yes,no,24,no,no,4,A,normal,3,not much,no
+60 or older,Female,no,no,20,no,no,9,B,low,2,quite often,yes
+50-59,Male,yes,yes,24,yes,no,8,A,normal,0,not much,no
+40-49,Female,no,yes,21,no,no,7,B,low,0,quite often,yes
+50-59,Female,no,yes,20,no,no,6,AB,low,0,not much,no
+60 or older,Male,no,no,27,yes,no,7,A,normal,0,quite often,yes
+40-49,Male,yes,no,29,no,no,6,B,normal,0,not much,no
+less than 40,Female,no,no,18,no,no,6,AB,low,3,not much,yes
+less than 40,Female,no,yes,32,no,no,8,O,low,3,quite often,no
+60 or older,Female,no,yes,21,no,no,7,A,normal,3,quite often,yes
+50-59,Male,no,no,26,no,no,4,B,high,0,quite often,no
+60 or older,Female,yes,no,31,no,no,8,AB,normal,3,quite often,yes
+50-59,Female,yes,yes,26,no,no,7,A,low,3,not much,no
+40-49,Male,yes,no,21,yes,no,8,B,normal,0,not much,yes
+50-59,Female,yes,yes,28,no,no,8,AB,normal,2,not much,yes
+60 or older,Male,no,no,24,no,no,8,A,high,0,quite often,no
+40-49,Male,yes,no,27,no,no,8,B,high,0,quite often,yes
+less than 40,Female,no,yes,21,yes,no,6,AB,normal,0,not much,no
+less than 40,Male,yes,no,27,no,no,6,A,high,0,quite often,yes
+60 or older,Female,no,no,24,no,no,6,B,normal,0,not much,no
+50-59,Male,no,yes,36,no,no,6,AB,high,0,not much,yes
+less than 40,Male,yes,yes,21,yes,no,6,O,normal,0,quite often,no
+40-49,Female,no,yes,22,no,no,6,A,normal,0,not much,yes
+60 or older,Male,yes,no,21,no,no,6,B,low,0,not much,no
+50-59,Male,no,no,38,no,yes,8,AB,normal,0,quite often,yes
+40-49,Female,yes,no,40,no,no,9,A,high,2,quite often,no
+50-59,Male,no,yes,35,yes,no,5,B,normal,0,not much,yes
+60 or older,Female,yes,yes,24,no,no,4,AB,high,3,quite often,no
+40-49,Male,no,no,18,no,no,5,O,normal,0,quite often,yes
+less than 40,Female,yes,no,23,no,no,7,A,high,2,not much,no
+less than 40,Female,no,no,19,no,yes,6,B,low,1,quite often,yes
+60 or older,Male,yes,no,26,yes,yes,8,AB,high,0,not much,no
+50-59,Female,no,yes,30,yes,yes,5,A,normal,1,quite often,yes
+60 or older,Female,yes,no,27,no,no,6,B,high,0,quite often,no
+less than 40,Male,no,no,18,yes,yes,7,AB,normal,0,quite often,yes
+less than 40,Female,yes,yes,29,yes,yes,6,A,high,0,not much,no
+50-59,Male,no,no,19,no,yes,6,B,high,0,quite often,yes
+50-59,Female,yes,yes,21,no,no,8,AB,low,0,not much,no
+less than 40,Male,no,no,24,yes,no,10,A,high,0,quite often,yes
+60 or older,Male,no,no,31,no,no,6,B,normal,0,not much,no
+less than 40,Female,yes,yes,22,no,no,8,AB,high,0,quite often,yes
+less than 40,Male,yes,no,19,no,yes,8,O,normal,0,not much,no
+50-59,Male,no,no,27,no,no,6,A,high,0,not much,yes
+40-49,Male,no,yes,26,no,no,10,B,high,0,quite often,no
+50-59,Female,yes,yes,21,no,no,8,A,normal,0,not much,yes
+60 or older,Male,no,yes,26,no,no,6,B,low,0,quite often,no
+50-59,Male,yes,no,23,yes,yes,5,AB,normal,0,not much,yes
+less than 40,Male,no,no,26,yes,yes,5,O,high,0,quite often,no
+60 or older,Female,no,no,18,no,no,4,A,normal,0,quite often,yes
+60 or older,Female,yes,yes,19,no,no,9,B,high,4,not much,no
+50-59,Male,no,no,24,no,yes,7,AB,low,0,quite often,yes
+60 or older,Female,no,yes,33,yes,no,6,A,low,2,quite often,no
+50-59,Male,yes,yes,31,no,yes,7,B,normal,0,not much,yes
+40-49,Female,no,no,23,no,no,7,AB,low,1,not much,no
+50-59,Male,yes,no,23,no,no,7,A,normal,0,not much,yes
+50-59,Female,no,yes,20,no,no,7,B,low,1,quite often,no
+60 or older,Male,no,no,28,no,yes,7,AB,high,0,not much,yes
+50-59,Male,yes,yes,26,no,yes,6,A,normal,0,not much,no
+less than 40,Male,no,yes,24,yes,no,7,B,high,0,quite often,yes
+40-49,Male,yes,no,24,no,no,7,AB,normal,0,not much,no
+60 or older,Female,no,yes,17,no,no,4,O,high,0,not much,yes
+50-59,Male,yes,no,28,yes,yes,4,A,normal,0,quite often,no
+40-49,Male,no,no,23,yes,no,6,B,high,0,not much,yes
+50-59,Male,yes,yes,24,no,no,6,AB,normal,0,not much,no
+60 or older,Female,no,no,19,no,no,7,A,high,1,quite often,yes
+40-49,Male,yes,yes,15,no,no,4,B,normal,0,not much,no
+less than 40,Male,no,no,22,no,no,6,AB,low,0,not much,yes
+less than 40,Male,yes,no,23,no,no,7,O,low,0,quite often,no
+60 or older,Male,no,yes,18,yes,no,8,A,low,0,quite often,yes
+50-59,Female,yes,no,21,no,no,5,B,normal,0,not much,no
+40-49,Male,yes,no,21,no,no,7,AB,high,0,not much,yes
+less than 40,Male,yes,yes,21,no,no,9,A,low,0,not much,no
+60 or older,Male,yes,yes,22,no,no,5,B,low,0,quite often,yes
+50-59,Female,no,yes,25,no,no,6,AB,normal,0,not much,no
+40-49,Male,yes,no,20,yes,yes,6,A,normal,0,quite often,yes
+50-59,Male,no,yes,24,no,no,8,B,high,0,not much,no
+60 or older,Female,yes,no,21,no,no,8,AB,high,0,quite often,yes
+40-49,Male,no,yes,26,no,no,6,A,normal,0,not much,no
+less than 40,Female,yes,yes,27,no,no,8,B,low,1,quite often,yes
+less than 40,Female,no,no,26,no,no,8,AB,normal,0,not much,no
+60 or older,Male,yes,yes,24,no,no,8,O,low,0,quite often,yes
+50-59,Female,no,no,21,yes,no,8,A,normal,3,not much,no
+less than 40,Female,yes,no,22,no,no,8,B,normal,3,quite often,yes
+40-49,Male,no,no,23,no,yes,7,AB,low,0,not much,no
+60 or older,Male,no,no,28,no,no,8,O,normal,0,quite often,yes
+50-59,Male,yes,yes,32,no,no,8,A,high,0,not much,no
+40-49,Female,yes,no,33,no,no,6,B,high,2,quite often,yes
+50-59,Female,yes,no,24,no,no,8,AB,high,0,not much,no
+60 or older,Female,yes,no,28,no,no,7,O,normal,0,quite often,yes
+40-49,Male,no,yes,30,yes,no,7,A,normal,0,not much,no
+less than 40,Male,yes,no,30,yes,yes,7,B,high,0,quite often,yes
+less than 40,Female,yes,yes,27,no,no,7,AB,normal,0,not much,no
+60 or older,Female,no,no,27,no,no,9,A,normal,0,quite often,yes
+50-59,Male,no,no,22,yes,no,9,B,high,0,quite often,no
+40-49,Female,no,yes,23,no,no,5,AB,normal,0,not much,yes
+less than 40,Female,yes,no,18,no,no,7,A,normal,0,quite often,no
+less than 40,Male,yes,yes,22,no,no,7,B,high,0,not much,yes
+40-49,Male,yes,no,21,no,yes,8,AB,normal,0,quite often,no
+less than 40,Female,no,no,26,no,no,8,A,normal,0,not much,yes
+60 or older,Female,yes,yes,28,yes,no,6,B,high,2,quite often,no
+50-59,Male,yes,no,26,no,no,6,AB,normal,0,not much,yes
+40-49,Female,no,no,31,no,no,7,O,high,0,quite often,no
+50-59,Male,yes,yes,33,no,yes,5,A,normal,0,not much,yes
+60 or older,Female,no,yes,30,no,no,7,B,high,0,quite often,no
+40-49,Female,no,yes,23,no,yes,6,AB,normal,0,not much,yes
+less than 40,Female,yes,no,29,no,no,6,A,high,2,quite often,no
+less than 40,Female,no,no,17,no,no,7,B,normal,3,not much,yes
+60 or older,Female,yes,no,24,no,no,8,AB,high,2,not much,no
+50-59,Male,no,yes,26,no,yes,8,O,high,0,quite often,yes
+less than 40,Female,yes,yes,27,no,yes,8,A,low,0,quite often,no
+40-49,Male,no,no,21,no,no,6,B,normal,0,not much,yes
+60 or older,Female,yes,no,26,yes,no,7,AB,low,0,not much,no
+50-59,Male,yes,yes,20,no,no,7,A,high,0,quite often,yes
+40-49,Male,no,no,22,no,no,6,B,normal,0,not much,no
+50-59,Male,yes,yes,21,yes,no,8,AB,high,0,quite often,yes
+60 or older,Female,yes,no,26,no,no,7,A,low,0,not much,no
+40-49,Female,yes,no,21,no,yes,9,B,high,0,not much,yes
+less than 40,Male,yes,yes,21,no,yes,8,AB,high,0,quite often,no
+less than 40,Female,yes,no,24,no,no,8,A,normal,0,not much,yes
+60 or older,Male,no,no,24,yes,yes,7,B,normal,0,quite often,no
+50-59,Male,no,yes,26,no,yes,6,AB,high,0,not much,yes
+60 or older,Male,yes,yes,32,no,no,8,O,high,0,quite often,no
+50-59,Male,yes,yes,34,no,no,7,A,high,0,not much,yes
+40-49,Male,no,no,30,no,no,7,B,normal,0,quite often,no
+50-59,Female,no,no,42,no,no,7,AB,low,0,not much,yes
+60 or older,Male,yes,no,33,yes,no,8,O,high,0,quite often,no
+40-49,Female,no,yes,23,no,no,7,A,normal,0,not much,yes
+less than 40,Male,yes,yes,27,no,yes,7,B,high,0,quite often,no
+less than 40,Female,no,no,25,no,no,5,AB,normal,0,not much,yes
+60 or older,Female,no,no,28,no,no,6,O,high,0,quite often,no
+50-59,Female,no,no,28,no,no,6,A,normal,0,not much,yes
+less than 40,Male,no,no,33,no,no,7,B,high,0,quite often,no
+40-49,Female,no,yes,33,yes,no,7,AB,normal,0,not much,yes
+60 or older,Female,no,no,28,no,no,7,A,high,0,quite often,no
+50-59,Male,no,no,28,yes,no,6,B,high,0,quite often,yes
+40-49,Female,yes,yes,36,no,no,7,AB,normal,0,not much,no
+50-59,Female,no,no,33,no,no,8,A,high,0,quite often,yes
+60 or older,Male,no,yes,28,no,no,6,B,normal,0,not much,no
+40-49,Male,yes,no,28,no,no,7,AB,low,0,quite often,yes
+less than 40,Male,no,no,33,no,no,8,A,low,0,not much,no
+less than 40,Female,yes,yes,38,yes,no,7,B,normal,0,not much,yes
+60 or older,Male,no,no,33,no,no,6,AB,high,0,not much,no
+50-59,Male,no,no,38,no,no,5,O,normal,0,quite often,yes
+40-49,Female,yes,yes,36,no,no,7,A,high,0,quite often,no
+less than 40,Female,yes,yes,33,no,no,6,B,normal,0,not much,yes
+less than 40,Male,no,yes,33,yes,no,7,AB,high,0,quite often,no
+40-49,Female,no,no,38,no,no,6,A,normal,0,not much,yes
+40-49,Male,yes,no,36,no,no,7,B,high,0,quite often,no
+less than 40,Female,no,no,33,yes,no,7,AB,high,0,not much,yes
+50-59,Male,no,yes,38,no,no,6,O,normal,0,not much,no
+60 or older,Female,yes,no,38,no,no,5,A,high,0,quite often,yes
+60 or older,Male,no,yes,33,no,no,6,B,normal,0,not much,no
+50-59,Female,no,no,33,no,no,8,AB,high,0,quite often,yes
+less than 40,Female,yes,yes,38,yes,no,8,A,high,0,not much,no
+40-49,Male,yes,no,32,no,no,6,B,normal,0,quite often,yes
+60 or older,Male,no,no,33,no,no,8,AB,high,0,not much,no
+50-59,Female,yes,no,22,no,no,10,A,normal,2,quite often,yes
+40-49,Male,yes,no,24,no,no,8,B,high,0,not much,no
+50-59,Female,no,yes,23,no,no,9,AB,normal,3,not much,yes
+60 or older,Female,yes,yes,27,yes,no,7,A,high,3,quite often,no
+40-49,Male,yes,yes,24,no,yes,7,B,normal,0,not much,yes
+less than 40,Female,no,no,18,no,no,8,AB,high,0,quite often,no
+less than 40,Female,yes,yes,20,yes,no,9,O,high,0,not much,yes
+60 or older,Female,no,no,19,no,no,7,A,normal,0,quite often,no
+50-59,Male,yes,yes,28,yes,yes,7,B,normal,0,quite often,yes
+40-49,Female,no,no,19,no,no,8,AB,high,0,not much,no
+less than 40,Male,no,no,25,yes,yes,7,A,normal,0,not much,yes
+60 or older,Male,no,yes,25,no,yes,7,B,high,0,quite often,no
+50-59,Female,no,no,24,yes,yes,10,AB,normal,0,not much,yes
+40-49,Male,yes,yes,27,no,no,7,O,high,0,quite often,no
+50-59,Male,yes,no,19,yes,yes,7,A,normal,0,not much,yes
+60 or older,Male,no,no,25,yes,yes,10,B,high,0,quite often,no
+40-49,Female,no,yes,28,no,no,8,AB,normal,0,quite often,yes
+less than 40,Male,yes,no,25,no,no,5,A,low,0,not much,yes
+less than 40,Male,no,no,24,no,no,6,B,normal,0,not much,no
+60 or older,Female,yes,yes,21,no,no,8,AB,low,0,quite often,yes
+50-59,Female,yes,yes,23,no,no,9,A,normal,0,not much,no
+less than 40,Male,no,yes,28,yes,yes,8,B,high,0,quite often,yes
+40-49,Male,no,no,20,no,no,7,AB,normal,0,not much,no
+60 or older,Male,yes,yes,18,no,no,6,A,high,0,quite often,yes
+50-59,Male,no,no,25,no,no,6,B,normal,0,not much,no
+40-49,Male,yes,yes,28,no,no,6,A,high,0,quite often,yes
+50-59,Female,yes,yes,27,yes,yes,6,B,normal,0,not much,no
+60 or older,Male,no,no,20,no,no,8,AB,normal,0,quite often,yes
+40-49,Male,yes,no,20,no,no,7,O,high,0,not much,no
+less than 40,Female,no,yes,17,no,no,8,A,normal,0,not much,yes
+less than 40,Male,no,yes,26,yes,no,6,B,normal,0,quite often,no
+60 or older,Female,no,no,21,no,no,7,AB,high,0,quite often,yes
+50-59,Male,yes,no,29,no,no,8,A,normal,0,not much,no
+40-49,Female,yes,yes,29,no,yes,6,B,high,0,quite often,yes
+less than 40,Male,no,no,24,yes,yes,8,AB,high,0,not much,no
+less than 40,Male,yes,no,23,no,no,5,A,normal,0,quite often,yes
+40-49,Female,no,no,23,no,no,5,B,high,0,not much,no
+less than 40,Female,yes,yes,29,no,no,6,AB,normal,0,quite often,yes
+60 or older,Male,no,no,19,no,no,9,A,high,2,not much,no
+50-59,Female,no,yes,23,yes,yes,8,B,high,0,not much,yes
+40-49,Male,no,no,17,no,no,6,AB,high,0,quite often,no
+50-59,Female,yes,no,23,no,no,6,O,low,2,quite often,yes
+60 or older,Male,no,yes,24,no,no,7,A,high,0,quite often,no
+40-49,Female,yes,no,25,no,no,8,B,low,0,quite often,yes
+less than 40,Female,no,yes,35,no,no,8,A,normal,2,not much,no
+less than 40,Female,yes,no,33,no,no,7,B,low,0,not much,yes
+60 or older,Female,no,no,34,no,no,6,AB,normal,0,not much,no
+50-59,Male,yes,yes,36,yes,no,6,A,low,0,quite often,yes
+less than 40,Male,no,no,30,no,yes,6,B,normal,0,quite often,no
+40-49,Male,yes,no,28,yes,yes,5,AB,high,0,not much,yes
+60 or older,Male,yes,yes,35,yes,yes,5,A,normal,0,quite often,no
+50-59,Male,no,yes,24,no,yes,6,B,high,0,not much,yes
+40-49,Female,no,yes,22,no,no,8,AB,normal,3,not much,no
+50-59,Male,no,no,30,yes,yes,8,A,high,0,quite often,yes
+60 or older,Male,yes,no,22,no,no,7,B,normal,0,not much,no
+40-49,Male,yes,no,22,no,no,8,AB,high,0,not much,yes
+less than 40,Male,yes,yes,27,no,no,6,O,normal,0,quite often,no
+less than 40,Female,no,yes,23,no,no,6,A,low,0,quite often,yes
+60 or older,Male,no,no,27,no,yes,6,B,high,0,not much,no
+50-59,Female,yes,no,29,no,no,7,AB,high,2,quite often,yes
+60 or older,Male,yes,yes,39,yes,no,8,O,high,0,quite often,no
+50-59,Male,no,no,28,no,no,8,A,high,0,not much,yes
+40-49,Female,yes,yes,24,no,no,6,B,high,0,quite often,no
+50-59,Male,no,no,23,yes,no,8,AB,normal,0,not much,yes
+60 or older,Male,yes,no,27,no,no,8,O,low,0,quite often,no
+40-49,Male,no,yes,21,no,yes,10,A,normal,0,quite often,yes
+less than 40,Male,yes,no,24,no,no,8,B,high,0,quite often,no
+less than 40,Male,no,no,20,yes,no,7,AB,normal,0,not much,yes
+60 or older,Male,yes,yes,23,no,no,7,A,high,0,quite often,no
+50-59,Female,no,yes,20,no,no,8,B,high,0,not much,yes
+less than 40,Male,no,yes,20,no,no,7,AB,low,0,quite often,no
+40-49,Male,yes,no,26,yes,no,8,A,normal,0,not much,yes
+60 or older,Female,no,no,21,no,no,6,B,low,1,quite often,no
+50-59,Female,yes,no,22,no,no,8,AB,low,2,not much,yes
+40-49,Male,no,yes,15,no,no,7,A,normal,0,not much,no
+50-59,Female,yes,yes,34,yes,no,6,B,low,3,quite often,yes
+60 or older,Male,yes,no,22,no,no,7,AB,high,0,not much,no
+40-49,Female,no,no,24,no,no,6,O,normal,2,quite often,yes
+less than 40,Male,yes,no,24,no,no,11,A,high,0,not much,no
+less than 40,Male,no,no,22,no,no,8,B,normal,0,quite often,yes
+60 or older,Male,yes,yes,30,yes,yes,9,AB,normal,0,quite often,no
+50-59,Female,no,no,24,no,no,4,A,high,3,not much,yes
+less than 40,Female,yes,no,24,no,no,4,B,low,3,quite often,no
+less than 40,Female,no,yes,20,no,no,9,AB,normal,2,quite often,yes
+60 or older,Male,yes,no,24,yes,no,8,O,normal,0,not much,no
+50-59,Female,no,yes,21,no,no,7,A,high,0,not much,yes
+less than 40,Female,yes,no,20,no,no,6,B,normal,0,not much,no
+40-49,Male,no,no,27,yes,no,7,AB,high,0,quite often,yes
+60 or older,Male,yes,yes,29,no,no,6,A,low,0,not much,no
+50-59,Female,no,no,18,no,no,6,B,normal,3,not much,yes
+40-49,Female,no,no,32,no,no,8,AB,high,3,quite often,no
+50-59,Female,yes,yes,21,no,no,7,A,normal,3,not much,yes
+60 or older,Male,no,yes,26,no,no,4,B,low,0,not much,no
+40-49,Female,yes,yes,31,no,no,8,AB,normal,3,quite often,yes
+less than 40,Female,yes,no,26,no,no,7,A,high,3,not much,no
+less than 40,Male,no,no,21,no,no,8,B,normal,0,not much,yes
+60 or older,Female,yes,no,28,yes,no,8,AB,high,2,quite often,no
+50-59,Male,no,yes,24,no,no,8,O,normal,0,not much,yes
+40-49,Female,yes,yes,27,yes,no,8,A,low,0,not much,no
+less than 40,Male,no,no,21,no,no,6,A,normal,0,quite often,yes
+60 or older,Female,yes,no,27,no,no,6,B,high,0,quite often,no
+50-59,Male,no,yes,24,no,no,6,AB,high,0,not much,yes
+40-49,Female,yes,no,36,no,no,6,O,normal,0,not much,no
+50-59,Male,yes,yes,21,no,no,6,A,low,0,not much,yes
+60 or older,Male,no,no,22,no,no,6,B,normal,0,quite often,no
+40-49,Female,yes,no,21,yes,no,6,AB,high,0,not much,yes
+less than 40,Male,yes,yes,38,no,yes,8,A,normal,0,quite often,no
+less than 40,Female,no,no,40,no,no,9,B,high,2,not much,yes
+60 or older,Male,yes,yes,35,no,no,5,AB,high,0,quite often,no
+50-59,Female,yes,no,24,yes,no,4,A,normal,3,not much,yes
+less than 40,Male,no,no,18,no,no,5,B,high,0,quite often,no
+40-49,Female,yes,yes,23,no,no,7,AB,normal,2,not much,yes
+60 or older,Female,no,no,19,no,yes,6,A,low,1,quite often,no
+50-59,Male,yes,no,26,yes,yes,8,B,normal,0,not much,yes
+40-49,Female,no,yes,30,yes,yes,5,AB,high,1,quite often,no
+50-59,Female,yes,yes,27,no,no,6,O,normal,0,not much,yes
+60 or older,Male,no,yes,18,yes,yes,7,A,high,0,quite often,no
+40-49,Male,yes,no,29,yes,yes,6,B,normal,0,not much,yes
+less than 40,Male,no,no,19,no,yes,6,AB,low,0,quite often,no
+less than 40,Female,yes,no,21,no,no,8,A,high,0,not much,yes
+60 or older,Male,no,yes,24,yes,no,10,B,high,0,quite often,no
+50-59,Male,no,yes,31,no,no,6,AB,normal,0,not much,yes
+40-49,Female,yes,no,22,no,no,8,O,low,0,quite often,no
+less than 40,Male,yes,no,19,no,yes,8,A,high,0,not much,yes
+less than 40,Male,no,yes,27,no,no,6,B,normal,0,quite often,no
+40-49,Female,no,no,26,no,no,10,AB,high,0,quite often,yes
+less than 40,Female,yes,yes,21,no,no,8,A,normal,0,not much,no
+60 or older,Male,no,no,26,no,no,6,B,low,0,quite often,yes
+50-59,Male,yes,no,23,yes,yes,5,AB,normal,0,not much,no
+40-49,Male,no,yes,26,yes,yes,5,A,high,0,quite often,yes
+50-59,Female,yes,no,18,no,no,4,B,high,0,not much,no
+60 or older,Female,no,no,19,no,no,9,A,normal,4,quite often,yes
+40-49,Male,yes,yes,24,no,yes,7,B,high,0,not much,no
+less than 40,Female,no,yes,33,no,no,6,AB,normal,2,quite often,yes
+less than 40,Male,yes,yes,31,no,yes,7,O,high,0,not much,no
+60 or older,Female,no,no,23,no,no,7,A,normal,1,quite often,yes
+50-59,Male,yes,no,23,no,no,7,B,high,0,not much,no
+less than 40,Female,yes,no,20,yes,no,7,AB,normal,1,quite often,yes
+40-49,Male,no,yes,28,no,yes,7,A,low,0,not much,no
+60 or older,Male,yes,yes,26,no,yes,6,B,normal,0,not much,yes
+50-59,Female,no,no,24,yes,no,7,AB,low,0,quite often,no
+40-49,Male,yes,no,24,no,no,7,A,normal,0,quite often,yes
+50-59,Female,no,no,17,no,no,4,B,normal,0,not much,no
+60 or older,Male,yes,no,28,yes,yes,4,AB,low,0,not much,yes
+40-49,Male,no,yes,23,yes,no,6,A,normal,0,quite often,no
+less than 40,Male,yes,no,24,no,no,6,A,low,0,not much,yes
+less than 40,Female,no,no,19,no,no,7,B,low,1,quite often,no
+60 or older,Male,yes,yes,15,no,no,4,AB,normal,0,not much,yes
+50-59,Male,no,no,22,yes,no,6,O,high,0,not much,no
+60 or older,Female,yes,yes,23,no,no,7,A,low,0,quite often,yes
+50-59,Male,no,no,18,no,no,8,B,high,0,not much,no
+40-49,Male,yes,no,21,no,no,5,AB,normal,0,quite often,yes
+50-59,Female,no,yes,21,no,no,7,A,high,0,not much,no
+60 or older,Male,yes,no,21,yes,no,9,B,normal,0,quite often,yes
+40-49,Male,no,no,22,no,no,5,AB,low,0,not much,no
+less than 40,Female,no,yes,25,no,no,6,A,normal,0,quite often,yes
+less than 40,Male,yes,yes,20,yes,yes,6,B,high,0,not much,no
+60 or older,Male,no,yes,24,no,no,8,AB,high,0,quite often,yes
+50-59,Female,yes,no,21,no,no,8,A,high,0,not much,no
+less than 40,Male,no,no,26,no,no,6,B,normal,0,quite often,yes
+40-49,Female,no,no,27,yes,no,8,AB,high,1,not much,no
+60 or older,Female,yes,yes,26,no,no,8,O,normal,0,quite often,yes
+50-59,Male,no,yes,24,no,no,8,A,high,0,not much,no
+40-49,Female,yes,no,21,yes,no,8,B,normal,3,quite often,yes
+50-59,Female,no,yes,22,no,no,8,AB,normal,3,not much,no
+60 or older,Male,yes,no,23,no,yes,7,A,low,0,quite often,yes
+40-49,Male,no,yes,28,no,no,8,B,normal,0,quite often,no
+less than 40,Male,yes,no,32,no,no,8,AB,high,0,not much,yes
+less than 40,Female,no,no,33,no,no,6,O,normal,2,quite often,no
+60 or older,Female,yes,yes,24,no,no,8,A,high,0,not much,yes
+50-59,Female,yes,no,28,no,no,7,A,normal,0,quite often,no
+50-59,Male,no,yes,30,no,no,7,B,normal,0,not much,yes
+50-59,Male,yes,no,30,yes,yes,7,AB,low,0,not much,no
+less than 40,Female,yes,no,27,no,no,7,O,normal,0,not much,yes
+60 or older,Female,no,yes,27,no,no,9,A,normal,0,quite often,no
+50-59,Male,yes,no,22,yes,no,9,B,high,0,quite often,yes
+less than 40,Female,no,no,23,no,no,5,AB,normal,0,not much,yes
+40-49,Female,yes,yes,18,no,no,7,A,high,0,quite often,no
+60 or older,Male,yes,yes,22,no,no,7,B,normal,0,not much,yes
+50-59,Male,yes,yes,21,yes,yes,8,AB,high,0,quite often,no
+40-49,Female,no,no,26,no,no,8,A,normal,0,not much,yes
+50-59,Female,yes,yes,28,no,no,6,B,high,2,not much,no
+60 or older,Male,no,no,26,no,no,6,AB,normal,0,quite often,yes
+40-49,Female,no,yes,31,yes,no,7,A,high,0,not much,no
+less than 40,Male,yes,yes,33,no,yes,5,B,high,0,quite often,yes
+less than 40,Female,yes,no,30,no,no,7,AB,normal,0,not much,no
+60 or older,Male,yes,no,23,no,yes,6,O,low,0,quite often,yes
+50-59,Female,yes,yes,29,no,no,6,A,normal,2,not much,no
+40-49,Female,no,yes,17,no,no,7,B,high,3,quite often,yes
+less than 40,Female,yes,yes,24,yes,no,8,AB,normal,2,not much,no
+60 or older,Male,no,no,26,no,yes,8,A,high,0,not much,yes
+50-59,Female,yes,no,27,no,yes,8,B,low,0,quite often,no
+40-49,Male,no,no,21,no,no,6,AB,low,0,not much,yes
+50-59,Female,yes,yes,26,no,no,7,O,normal,0,quite often,no
+60 or older,Male,yes,yes,20,no,no,7,A,low,0,not much,yes
+40-49,Female,no,no,22,no,no,6,B,normal,0,quite often,no
+less than 40,Male,yes,no,21,yes,no,8,AB,low,0,quite often,yes
+less than 40,Male,yes,yes,26,no,no,7,A,high,0,not much,no
+60 or older,Female,no,no,21,no,yes,9,B,normal,0,not much,yes
+50-59,Female,yes,yes,21,no,yes,8,AB,high,0,quite often,no
+less than 40,Female,yes,no,24,no,no,8,A,normal,0,not much,yes
+40-49,Male,no,no,24,yes,yes,7,B,high,0,quite often,no
+60 or older,Male,no,yes,26,no,yes,6,AB,normal,0,not much,yes
+50-59,Male,yes,no,32,no,no,8,A,high,0,quite often,no
+40-49,Female,yes,no,34,no,no,7,B,normal,0,quite often,yes
+50-59,Male,no,no,30,no,no,7,AB,high,0,not much,no
+60 or older,Female,no,yes,42,no,no,7,O,normal,0,not much,yes
+40-49,Male,yes,no,33,no,no,8,A,low,0,quite often,no
+less than 40,Female,no,no,23,no,no,7,B,low,0,not much,yes
+less than 40,Male,yes,yes,27,no,yes,7,AB,low,0,quite often,no
+60 or older,Female,no,no,25,yes,no,5,A,normal,0,not much,yes
+50-59,Female,yes,yes,28,no,no,6,B,high,0,quite often,no
+40-49,Female,no,no,28,no,no,6,A,low,0,not much,yes
+less than 40,Male,yes,yes,33,yes,yes,7,B,low,0,quite often,no
+less than 40,Female,no,no,33,no,no,7,AB,high,0,not much,yes
+40-49,Female,yes,no,28,no,yes,7,A,normal,0,quite often,no
+less than 40,Male,no,yes,28,no,no,6,B,high,0,not much,yes
+60 or older,Female,yes,no,36,no,no,7,AB,high,0,not much,no
+50-59,Female,no,yes,33,no,no,8,A,normal,0,quite often,yes
+40-49,Female,no,no,28,no,no,6,B,low,0,quite often,no
+50-59,Male,yes,no,28,no,no,7,AB,normal,0,not much,yes
+60 or older,Male,yes,yes,33,yes,no,8,A,low,0,quite often,no
+40-49,Female,no,no,38,no,yes,7,B,normal,0,not much,yes
+less than 40,Female,yes,no,33,no,no,6,AB,normal,0,quite often,no
+less than 40,Male,no,yes,38,no,no,5,O,low,0,not much,yes
+60 or older,Female,yes,yes,36,yes,no,7,A,normal,0,quite often,no
+50-59,Male,yes,yes,33,no,no,6,B,high,0,not much,yes
+less than 40,Female,no,no,33,no,no,7,AB,high,0,not much,no
+40-49,Female,no,yes,38,no,no,6,O,high,0,quite often,yes
+60 or older,Male,yes,no,36,no,no,7,A,normal,0,quite often,no
+50-59,Female,no,yes,33,no,no,7,B,normal,0,quite often,yes
+40-49,Male,no,yes,38,no,no,6,AB,high,0,quite often,no
+50-59,Female,yes,no,38,yes,no,5,O,normal,0,not much,yes
+60 or older,Male,no,no,33,no,yes,6,A,normal,0,not much,no
+40-49,Female,no,yes,33,no,no,8,B,high,0,not much,yes
+less than 40,Female,yes,no,38,no,no,8,AB,normal,0,quite often,no
+less than 40,Male,yes,no,32,no,no,6,A,normal,0,quite often,yes
+60 or older,Male,no,yes,33,yes,yes,8,B,high,0,not much,no
+50-59,Female,yes,yes,22,no,no,10,AB,normal,2,quite often,yes
+60 or older,Male,yes,yes,24,no,no,8,A,normal,0,not much,no
+50-59,Female,no,no,23,no,no,9,B,high,3,not much,yes
+40-49,Female,yes,no,27,no,no,7,AB,normal,3,quite often,no
+50-59,Male,no,no,24,no,yes,7,A,high,0,not much,yes
+60 or older,Female,yes,yes,18,no,no,8,B,normal,0,not much,no
+40-49,Female,yes,yes,20,no,no,9,AB,high,0,quite often,yes
+less than 40,Female,no,no,19,no,no,7,O,normal,0,quite often,no
+less than 40,Male,yes,no,28,yes,yes,7,A,high,0,not much,yes
+60 or older,Female,no,yes,19,no,no,8,B,normal,0,quite often,no
+50-59,Male,no,no,25,yes,yes,7,AB,high,0,quite often,yes
+less than 40,Male,no,yes,25,no,yes,7,A,high,0,not much,no
+40-49,Female,no,yes,24,yes,yes,10,B,low,0,quite often,yes
+60 or older,Male,yes,no,27,no,no,7,AB,normal,0,not much,no
+50-59,Male,yes,yes,19,yes,yes,7,O,low,0,quite often,yes
+40-49,Female,no,no,25,yes,yes,10,A,high,0,quite often,no
+50-59,Male,no,no,28,no,no,8,B,normal,0,quite often,yes
+60 or older,Male,yes,yes,25,no,no,5,AB,normal,0,not much,no
+40-49,Male,yes,no,24,no,no,6,A,low,0,quite often,yes
+less than 40,Female,yes,yes,21,no,no,8,B,high,0,not much,no
+less than 40,Female,yes,no,23,no,no,9,AB,high,0,quite often,yes
+60 or older,Male,no,no,28,yes,yes,8,A,normal,0,not much,no
+50-59,Male,no,yes,20,no,no,7,B,normal,0,quite often,yes
+less than 40,Male,no,no,18,no,no,6,AB,high,0,not much,no
+60 or older,Female,no,no,25,no,no,6,A,normal,0,not much,yes
+50-59,Male,yes,yes,28,no,no,6,B,high,0,quite often,no
+less than 40,Female,yes,yes,27,yes,yes,6,AB,normal,0,not much,yes
+40-49,Male,no,yes,20,no,no,8,O,low,0,quite often,no
+60 or older,Female,yes,no,20,no,no,7,A,high,0,not much,yes
+50-59,Male,no,yes,17,no,no,8,A,normal,0,quite often,no
+40-49,Female,no,no,26,no,no,6,B,high,0,quite often,yes
+50-59,Male,no,yes,21,yes,no,7,AB,normal,0,not much,no
+60 or older,Male,yes,yes,29,no,no,8,O,high,0,quite often,yes
+40-49,Female,no,yes,29,no,yes,6,A,normal,0,quite often,no
+less than 40,Male,yes,no,24,yes,yes,8,B,high,0,not much,yes
+less than 40,Male,no,no,23,no,no,5,AB,normal,0,not much,no
+60 or older,Female,yes,yes,23,no,no,5,A,normal,0,not much,yes
+50-59,Male,yes,no,29,no,no,6,B,high,0,quite often,no
+40-49,Female,no,no,19,no,no,9,AB,normal,2,not much,yes
+less than 40,Male,no,yes,23,yes,yes,8,A,high,0,not much,no
+60 or older,Male,no,no,17,no,no,6,B,normal,0,quite often,yes
+50-59,Female,yes,yes,23,no,no,6,AB,low,2,not much,no
+40-49,Male,yes,no,24,no,no,7,A,low,0,not much,yes
+50-59,Female,no,no,25,no,no,8,B,normal,0,quite often,no
+60 or older,Female,yes,yes,35,no,no,8,AB,high,2,not much,yes
+40-49,Female,yes,no,33,no,no,7,O,normal,0,not much,no
+less than 40,Female,no,no,34,no,no,6,A,high,0,quite often,yes
+less than 40,Male,yes,yes,36,yes,no,6,B,normal,0,not much,no
+60 or older,Male,no,yes,30,no,yes,6,AB,high,0,not much,yes
+50-59,Female,yes,yes,28,yes,yes,5,A,normal,0,quite often,no
+less than 40,Male,yes,no,35,yes,yes,5,B,normal,0,quite often,yes
+40-49,Male,no,no,24,no,yes,6,AB,high,0,not much,no
+60 or older,Female,no,no,22,yes,no,8,O,normal,3,not much,yes
+50-59,Male,no,yes,30,no,yes,8,A,high,0,not much,no
+40-49,Male,yes,yes,22,no,no,7,B,normal,0,quite often,yes
+50-59,Male,yes,no,22,no,no,8,AB,high,0,not much,no
+60 or older,Male,yes,no,27,no,no,6,A,high,0,quite often,yes
+40-49,Male,no,yes,23,no,no,6,B,normal,0,not much,no
+less than 40,Male,no,no,27,yes,yes,6,AB,high,0,quite often,yes
+less than 40,Female,yes,yes,29,no,no,7,A,normal,2,not much,no
+60 or older,Male,no,no,39,no,no,8,B,high,0,quite often,yes
+50-59,Female,yes,no,28,no,no,8,A,normal,0,not much,no
+40-49,Male,yes,yes,24,no,no,6,B,high,0,quite often,yes
+less than 40,Female,no,no,23,no,yes,8,AB,normal,0,not much,no
+less than 40,Male,yes,no,27,yes,no,8,O,high,0,quite often,yes
+40-49,Male,no,yes,21,no,yes,10,A,high,0,not much,no
+less than 40,Female,yes,no,24,no,no,8,B,normal,0,quite often,yes
+60 or older,Male,no,no,20,no,no,7,AB,high,0,not much,no
+50-59,Female,yes,no,23,no,no,7,A,normal,0,quite often,yes
+40-49,Male,no,yes,20,yes,no,8,B,high,0,not much,no
+50-59,Female,yes,no,20,no,no,7,AB,high,0,quite often,yes
+60 or older,Male,yes,no,26,yes,no,8,A,normal,0,not much,no
+40-49,Female,no,yes,21,no,no,6,B,high,1,quite often,yes
+less than 40,Female,yes,no,22,no,no,8,AB,normal,2,not much,no
+less than 40,Male,no,yes,15,no,yes,7,A,high,0,quite often,yes
+60 or older,Female,yes,no,34,no,no,6,A,normal,3,quite often,no
+50-59,Male,yes,no,22,no,no,7,B,low,0,not much,yes
+less than 40,Female,no,yes,24,no,no,6,AB,normal,2,quite often,no
+40-49,Male,yes,no,24,no,no,11,O,low,0,not much,yes
+60 or older,Male,no,no,22,no,no,8,A,normal,0,quite often,no
+50-59,Male,yes,yes,30,yes,yes,9,B,high,0,not much,yes
+40-49,Female,no,yes,24,no,no,4,AB,normal,3,quite often,no
+50-59,Female,yes,yes,24,no,no,4,A,high,3,not much,yes
+60 or older,Female,no,no,20,no,no,9,B,normal,2,quite often,no
+40-49,Male,yes,no,24,yes,yes,8,AB,high,0,not much,yes
+less than 40,Female,no,no,21,no,no,7,A,normal,0,quite often,no
+less than 40,Female,no,yes,20,no,no,6,B,normal,0,not much,yes
+60 or older,Male,yes,yes,27,no,no,7,AB,high,0,quite often,no
+50-59,Male,no,no,29,no,no,6,A,normal,0,not much,yes
+60 or older,Female,yes,no,18,no,no,6,B,normal,3,not much,no
+50-59,Female,no,yes,32,no,no,8,AB,high,3,quite often,yes
+40-49,Female,yes,no,21,no,no,7,O,normal,3,quite often,no
+50-59,Male,no,yes,26,no,yes,4,A,high,0,not much,yes
+60 or older,Female,yes,no,31,no,no,8,B,high,3,not much,no
+40-49,Female,no,no,26,yes,no,7,AB,normal,3,quite often,yes
+less than 40,Male,yes,yes,21,no,no,8,A,high,0,not much,no
+less than 40,Female,no,no,28,no,no,8,B,normal,2,quite often,yes
+60 or older,Male,yes,yes,24,no,no,8,AB,high,0,not much,yes
+50-59,Female,no,yes,27,no,no,8,O,normal,0,not much,no
+less than 40,Male,no,no,21,no,no,6,A,high,0,not much,yes
+40-49,Female,yes,no,27,yes,no,6,A,low,0,quite often,no
+60 or older,Male,no,no,24,no,no,6,B,high,0,not much,yes
+50-59,Female,no,no,36,no,no,6,AB,low,0,not much,no
+40-49,Male,yes,no,21,no,no,6,O,normal,0,quite often,yes
+50-59,Male,no,no,22,no,no,6,A,low,0,not much,no
+60 or older,Female,yes,no,21,no,no,6,B,normal,0,quite often,yes
+40-49,Male,yes,no,38,no,yes,8,AB,low,0,not much,no
+less than 40,Female,no,yes,40,no,no,9,O,low,2,not much,yes
+less than 40,Male,yes,no,35,yes,no,5,A,high,0,quite often,no
+60 or older,Female,yes,yes,24,no,no,4,B,normal,3,quite often,yes
+50-59,Male,no,no,18,no,no,5,AB,high,0,not much,no
+40-49,Female,no,no,23,no,no,7,A,normal,2,quite often,yes
+60 or older,Female,no,yes,19,no,yes,6,B,high,1,not much,no
+less than 40,Male,yes,no,26,yes,yes,8,AB,normal,0,quite often,yes
+less than 40,Female,no,no,30,yes,yes,5,O,high,1,not much,no
+60 or older,Female,no,yes,27,no,no,6,A,normal,0,quite often,yes
+less than 40,Male,no,yes,18,yes,yes,7,A,low,0,quite often,no
+less than 40,Female,yes,no,29,yes,yes,6,B,high,3,not much,yes
+50-59,Male,no,yes,19,no,yes,6,AB,high,0,quite often,no
+50-59,Female,yes,no,21,no,no,8,O,high,0,quite often,yes
+less than 40,Male,no,no,24,no,no,10,A,high,0,not much,no
+60 or older,Male,no,yes,31,yes,no,6,B,high,0,quite often,yes
+less than 40,Female,yes,no,22,no,no,8,AB,normal,0,not much,no
+less than 40,Male,yes,yes,19,no,yes,8,A,low,0,not much,yes
+50-59,Female,no,no,27,no,no,6,B,normal,0,quite often,no
+40-49,Male,yes,no,26,no,no,10,AB,high,0,not much,yes
+50-59,Female,no,yes,21,no,no,8,A,normal,0,not much,no
+60 or older,Male,yes,no,26,no,no,6,B,high,0,quite often,yes
+50-59,Female,no,no,23,yes,yes,5,AB,high,0,not much,no
+less than 40,Male,yes,yes,26,yes,yes,5,A,low,0,not much,yes
+60 or older,Female,yes,yes,18,no,no,4,B,normal,0,not much,no
+60 or older,Female,no,yes,19,no,no,9,AB,low,4,quite often,yes
+50-59,Male,yes,no,24,no,yes,7,O,high,0,not much,no
+60 or older,Female,no,yes,33,no,no,6,A,normal,2,not much,yes
+50-59,Male,yes,no,31,yes,yes,7,B,low,0,not much,no
+40-49,Female,no,yes,23,no,no,7,AB,high,1,quite often,yes
+50-59,Male,yes,yes,23,no,no,7,A,normal,0,not much,no
+50-59,Female,no,yes,20,no,no,7,B,high,1,not much,yes
+50-59,Male,no,no,28,no,yes,7,B,high,0,quite often,no
+60 or older,Male,yes,yes,26,no,yes,6,AB,normal,0,not much,yes
+less than 40,Female,no,no,24,no,no,7,A,high,0,quite often,no
+60 or older,Male,yes,no,24,no,no,7,B,low,0,not much,yes
+less than 40,Female,no,yes,17,no,no,4,AB,high,0,quite often,no
+less than 40,Male,yes,no,28,yes,yes,4,O,normal,0,not much,yes
+less than 40,Female,no,yes,23,yes,no,6,A,high,0,not much,no
